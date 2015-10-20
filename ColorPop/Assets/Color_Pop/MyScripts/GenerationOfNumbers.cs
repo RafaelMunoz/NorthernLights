@@ -11,8 +11,8 @@ public class GenerationOfNumbers : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        maxNum = 45;
-        kMaxNum = 45;
+        maxNum = 40;
+        kMaxNum = 40;
         alreadyBonus = false;
 	}
 
